@@ -2,7 +2,7 @@
 
 <p align="center"> 
 <p align="center">
-  <img src="https://files.catbox.moe/119585.jpg" width="250" alt="ALADDIN-XD Logo"/>
+  <img src="https://iili.io/CFA2SpV.jpg" width="250" alt="ALADDIN-XD Logo"/>
 </p>
 
 ---
